@@ -397,7 +397,7 @@ import matplotlib.ticker as ticker
 
 plt.figure()
 plt.plot(all_losses)
-
+plt.show()
 
 ######################################################################
 # Evaluating the Results
